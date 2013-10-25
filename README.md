@@ -1,4 +1,0 @@
-sport-tracker
-=============
-
-SportTracker
